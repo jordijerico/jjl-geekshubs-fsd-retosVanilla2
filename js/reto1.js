@@ -1,10 +1,3 @@
-
-
-// if (figura != "circulo" || figura != "círculo" || figura != "cuadrado" || figura != "triangulo") {
-//     window.alert("Dime una figura entre triangulo,cuadrado o circulo")
-// } else {
-    
-// }
 let figura ;
 do {
     figura = prompt("Dime que figura entre traingulo,cuadrado o circulo que quieres calcular");
